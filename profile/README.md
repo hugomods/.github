@@ -2,4 +2,6 @@
 
 Welcome to Hugo Modules.
 
-**Please note that this organization *isn't* maintained by official Hugo team.**
+## Note
+
+To be clarified, you might be confused by the organization name, but it _isn't_ maintained by official Hugo team.
