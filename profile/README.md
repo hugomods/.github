@@ -13,6 +13,13 @@ Literally, it is a collection of Hugo modules, which aims to
 
 > To be clarified, you might be confused by the organization name, but it _isn't_ maintained by official Hugo team.
 
+## Support
+
+- [Read the documentations](https://hugomods.com/).
+- [Ask questions](https://github.com/orgs/hugomods/discussions/new?category=q-a).
+- [Share ideas](https://github.com/orgs/hugomods/discussions/new?category=ideas).
+- [File issues or bugs](https://github.com/orgs/hugomods/discussions/new?category=issues-and-bugs).
+
 ## Pinned Projects
 
 Please consider giving it a star ⭐ if you like the projects.
