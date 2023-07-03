@@ -19,7 +19,9 @@ Literally, it is a collection of Hugo modules, which aims to
 - [Ask questions](https://github.com/orgs/hugomods/discussions/new?category=q-a).
 - [Share ideas](https://github.com/orgs/hugomods/discussions/new?category=ideas).
 - [File issues or bugs](https://github.com/orgs/hugomods/discussions/new?category=issues-and-bugs).
+- Please consider giving the projects a star ⭐ if you like it.
 
+<!--
 ## Pinned Projects
 
 Please consider giving it a star ⭐ if you like the projects.
@@ -32,3 +34,4 @@ Please consider giving it a star ⭐ if you like the projects.
 [![Hugo PWA Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=pwa)](https://github.com/hugomods/pwa)
 [![Hugo Images Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=images)](https://github.com/hugomods/images)
 [![Hugo Shortcodes Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=shortcodes)](https://github.com/hugomods/shortcodes)
+-->
