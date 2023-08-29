@@ -21,6 +21,7 @@ Literally, it is a collection of Hugo modules, which aims to
 - [Share ideas](https://github.com/orgs/hugomods/discussions/new?category=ideas).
 - [File issues or bugs](https://github.com/orgs/hugomods/discussions/new?category=issues-and-bugs).
 - Please consider giving the projects a star ⭐ if you like it.
+- Financial support via [PayPal](https://www.paypal.com/paypalme/razonyang) and [Ko-fi](https://ko-fi.com/razonyang).
 
 <!--
 ## Pinned Projects
