@@ -7,12 +7,12 @@
 
 ## Introduction
 
-Literally, it is a collection of Hugo modules, which aims to 
+Literally, it is a collection of third party Hugo modules, which aims to 
 
 - Help developers quickly build modular themes with existing modules.
 - Help users extend existing theme's functionalities.
 
-> To be clarified, you might be confused by the organization name, but it _isn't_ maintained by official Hugo team.
+> To be clarified, you might be confused by the organization name, but it ___isn't___ maintained by official Hugo team.
 
 ## Support
 
