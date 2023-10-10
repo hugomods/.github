@@ -16,13 +16,17 @@ Literally, it is a collection of third party Hugo modules, which aims to
 
 ## Support
 
-- [Read the documentations](https://hugomods.com/).
-- [Ask questions](https://github.com/orgs/hugomods/discussions/new?category=q-a).
-- [Share ideas](https://github.com/orgs/hugomods/discussions/new?category=ideas).
-- [File issues or bugs](https://github.com/orgs/hugomods/discussions/new?category=issues-and-bugs).
-- Please consider giving the projects a star ⭐ if you like it.
-- Financial support via [PayPal](https://www.paypal.com/paypalme/razonyang) and [Ko-fi](https://ko-fi.com/razonyang).
-- Subscribe the [latest articles](https://hugomods.com/en/index.xml) and [latest releases](https://hugomods.com/en/releases/index.xml) RSS feeds.
+- 📖 [Read the documentations](https://hugomods.com/).
+- ❓ [Ask questions](https://github.com/orgs/hugomods/discussions/new?category=q-a).
+- 💡 [Share ideas](https://github.com/orgs/hugomods/discussions/new?category=ideas).
+- 🐛 [File issues or bugs](https://github.com/orgs/hugomods/discussions/new?category=issues-and-bugs).
+- ⭐ Please consider giving the project a star 🌟 if you like it.
+- 📰 Follow us or subscribe our RSS feeds for getting latest news, modules, features, solutions and so on:
+  1. [GitHub organization](https://github.com/hugomods)
+  1. [Mastodon social media](https://techhub.social/@hugomods)
+  1. [Latest articles](https://hugomods.com/en/index.xml) RSS feed
+  1. [Latest releases](https://hugomods.com/en/releases/index.xml) RSS feed
+- ❤️ Financial support via [PayPal](https://www.paypal.com/paypalme/razonyang) and [Ko-fi](https://ko-fi.com/razonyang).
 
 <!--
 ## Pinned Projects
