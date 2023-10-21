@@ -26,7 +26,7 @@ Literally, it is a collection of third party Hugo modules, which aims to
   1. [Follow us on Mastodon](https://techhub.social/@hugomods)
   1. [Latest articles](https://hugomods.com/en/index.xml) RSS feed
   1. [Latest releases](https://hugomods.com/en/releases/index.xml) RSS feed
-- ❤️ Financial support via [PayPal](https://www.paypal.com/paypalme/razonyang) and [Ko-fi](https://ko-fi.com/razonyang).
+- ❤️ Financial support via [PayPal](https://www.paypal.com/paypalme/razonyang) and [GitHub Sponsors](https://github.com/sponsors/razonyang).
 
 <!--
 ## Pinned Projects
