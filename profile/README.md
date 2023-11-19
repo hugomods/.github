@@ -28,17 +28,13 @@ Literally, it is a collection of third party Hugo modules, which aims to
   1. [Latest releases](https://hugomods.com/en/releases/index.xml) RSS feed
 - ❤️ Financial support via [PayPal](https://www.paypal.com/paypalme/razonyang) and [GitHub Sponsors](https://github.com/sponsors/razonyang).
 
-<!--
-## Pinned Projects
+## Pinned Projects & Modules
 
-Please consider giving it a star ⭐ if you like the projects.
-
-[![Hugo Search Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=search)](https://github.com/hugomods/search)
-[![Hugo Docker Image](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=docker)](https://github.com/hugomods/docker)
-[![Hugo HugoPress Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=hugopress)](https://github.com/hugomods/hugopress)
-[![Hugo Bootstrap Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=bootstrap)](https://github.com/hugomods/bootstrap)
-[![Hugo Icons Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=icons)](https://github.com/hugomods/icons)
-[![Hugo PWA Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=pwa)](https://github.com/hugomods/pwa)
-[![Hugo Images Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=images)](https://github.com/hugomods/images)
-[![Hugo Shortcodes Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=shortcodes)](https://github.com/hugomods/shortcodes)
--->
+[![Hugo Docker Image](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=docker)](https://github.com/hugomods/docker)
+[![Hugo Search Module](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=search)](https://github.com/hugomods/search)
+[![Hugo PWA Module](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=pwa)](https://github.com/hugomods/pwa)
+[![Hugo Images Module](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=images)](https://github.com/hugomods/images)
+[![Hugo HugoPress Module](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=hugopress)](https://github.com/hugomods/hugopress)
+[![Hugo Icons Module](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=icons)](https://github.com/hugomods/icons)
+[![Hugo Bootstrap Module](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=bootstrap)](https://github.com/hugomods/bootstrap)
+[![Hugo Shortcodes Module](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=shortcodes)](https://github.com/hugomods/shortcodes)
