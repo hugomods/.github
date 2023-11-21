@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Literally, it is a collection of third party Hugo modules, which aims to 
+Literally, it is a collection of _third party_ Hugo modules, which aims to 
 
 - Help developers quickly build modular themes with existing modules.
 - Help users extend existing theme's functionalities.
@@ -28,6 +28,8 @@ Literally, it is a collection of third party Hugo modules, which aims to
   1. [Latest releases](https://hugomods.com/en/releases/index.xml) RSS feed
 - ❤️ Financial support via [PayPal](https://www.paypal.com/paypalme/razonyang) and [GitHub Sponsors](https://github.com/sponsors/razonyang).
 
+<!--
+
 ## Pinned Projects & Modules
 
 [![Hugo Docker Image](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=docker)](https://github.com/hugomods/docker)
@@ -38,3 +40,5 @@ Literally, it is a collection of third party Hugo modules, which aims to
 [![Hugo Icons Module](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=icons)](https://github.com/hugomods/icons)
 [![Hugo Bootstrap Module](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=bootstrap)](https://github.com/hugomods/bootstrap)
 [![Hugo Shortcodes Module](https://github-stats.hugomods.com/api/pin/?username=hugomods&repo=shortcodes)](https://github.com/hugomods/shortcodes)
+
+-->
