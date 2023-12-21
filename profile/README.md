@@ -1,7 +1,7 @@
 <div align="center">
   <!--<img src="https://avatars.githubusercontent.com/u/128204519?s=200" alt="Hugo Modules Logo" width="200" height="200">-->
-  <h1>Hugo Modules</h1>
-  <p>👏 Hi there! Welcome to Hugo Modules.</p>
+  <h1>HugoMods</h1>
+  <p>👏 Hi there! Welcome to HugoMods.</p>
   <img src="https://hugomods.com/images/banners/home.svg" alt="Hugo Modules Logo" width="100%" height="auto">
 </div>
 
