@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Literally, it is a collection of _third party_ Hugo modules, which aims to 
+Literally, it is a collection of _third party_ Hugo modules and tools, which aims to 
 
 - Help developers quickly build modular themes with existing modules.
 - Help users extend existing theme's functionalities.
