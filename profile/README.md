@@ -16,7 +16,7 @@ Literally, it is a collection of _third party_ Hugo modules and tools, which aim
 
 ## Support
 
-- 📖 [Read the documentations](https://hugomods.com/).
+- 📖 [Read the documentation](https://hugomods.com/).
 - ❓ [Ask questions](https://github.com/orgs/hugomods/discussions/new?category=q-a).
 - 💡 [Share ideas](https://github.com/orgs/hugomods/discussions/new?category=ideas).
 - 🐛 [File issues or bugs](https://github.com/orgs/hugomods/discussions/new?category=issues-and-bugs).
